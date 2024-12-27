@@ -4,20 +4,20 @@
 [linkedin-url]: https://www.linkedin.com/in/rijwanansari/
 
 # Clean Architecture - Blazor Web App with .NET 8 using Entity Framework and Repository Pattern 🏗️
-This is a project sample for **Blazor Wb App** with **.NET 8** following **clean architecture** design pattern using entity framework core and **repository pattern**. This is a ready-to-use solution with example CRUD. There is a complete CRUD example for App Setting.
+This is a project sample for **Blazor Web App** with **.NET 8** following **clean architecture** design pattern using entity framework core and **repository pattern**. This is a ready-to-use solution with example CRUD. There is a complete CRUD example for App Setting.
 
 ## Tech Stack :muscle:
 - .NET 8
 - ASP.NET Core
 - Blazor Web App
-- Microsoft Entity Framework Core 8
+- Entity Framework Core 8
 - Code-First Approach with Configuration
 - AutoMapper
 - Generic Repository Pattern
 - Dependency Injection
-- Microsoft SQL Server Database
+- SQL Server Database
 - Custom Logs Capture Module
-- - Authentication and Authorization - Identity
+- Authentication and Authorization - Identity on ASP.NET Core
 
 ## Learn About Clean Architecture 🔖
 - [Clean Architecture Concept](https://rijsat.com/2022/02/01/what-is-clean-architecture/)
@@ -25,7 +25,6 @@ This is a project sample for **Blazor Wb App** with **.NET 8** following **clean
 
 ## Down the Roadmap 🚀
 - Implement Blazor UI component - Ant Design Blazor
-
 - UI Enhancement - Blazor UI Components
 - Implement Admin LTE Design
 - File Upload to Azure Blog Example
